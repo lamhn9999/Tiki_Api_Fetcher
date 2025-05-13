@@ -1,0 +1,7 @@
+Data/Product_details_done/
+Data/Product_details_pending/
+Data/Product_details_backup/
+Data/Product_descriptions_archive.json
+Py/tiki_api_venv/
+Py/__pycache__/
+Sql/database.ini
