@@ -3,6 +3,7 @@
 <h4>Preparation</h4>
 <p>
   1. <code>cd Scripts</code>
+  <br>
   2. <code>chmod u+x Doall.sh</code>
 </p>
 <h4>Execution (inside Scripts/)</h4>
